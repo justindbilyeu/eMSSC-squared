@@ -1,39 +1,40 @@
+![System Diagram](05-technical-resources/figures/system-diagram.png)
+*Figure: eMSSC² integrates MSSC microbial bioreactors, TriSource nodes, and UNIST LSMO solar desalination modules into a zero-electric regenerative system.*
+
 # eMSSC² — Exponential Microbial Systems for Sustainable Communities
 
-**Mission:** eMSSC² integrates MSSC microbial bioreactors, TriSource hybrid nodes, and UNIST LSMO solar desalination technology to deliver zero-electric, regenerative water–energy–soil systems for climate-stressed communities. Together we prototype replicable infrastructure that turns microbial intelligence and solar flux into resilient services.
+**Vision:** Zero-electric, regenerative water-energy-soil systems integrating MSSC, TriSource, and UNIST LSMO solar desalination.
 
-## Integrated Platform at a Glance
-- **Closed-loop bio-hydrology.** MSSC bioreactors transform organic residues into high-value inoculants and soil amendments that drive nutrient cycling while polishing reclaimed water streams.
-- **TriSource hybrid nodes.** Modular atmospheric harvesting, microbial polishing, and membrane desalination operate as a single control block, powered by dedicated PV-thermal arrays with battery optionality.
-- **UNIST LSMO solar desalination.** Partnership with UNIST leverages lanthanum strontium manganese oxide (LSMO) photothermal absorbers to intensify distillation without external electrical loads.
-- **Community deployment stack.** Design-for-maintenance documentation, remote telemetry, and training curricula enable rural, island, and peri-urban operators to own, iterate, and expand nodes.
+We orchestrate microbial electrochemical bioreactors, TriSource hybrid nodes, and photothermal desalination modules into a deployable platform for climate-stressed communities. The program aligns engineering, policy, and capital pathways so DOE/USAID reviewers, UNIST collaborators, and ESG funders can accelerate field-ready infrastructure that regenerates water, energy, and soil without grid dependencies.
 
-## Repository Guide
+## 📂 Repository Map
+
 | Folder | Purpose |
-| --- | --- |
-| `docs/` | Canonical documentation across technology foundations, integration blueprints, deployment playbooks, and partner collateral. |
-| `_src/` | Staging area for experimental data captures, CAD, and simulation notebooks prior to formal documentation. |
-| `archive/` | Historical research packets, prior proposals, and superseded assets retained for traceability. |
-| `.github/` | Issue templates and automation that govern collaboration workflows. |
-
-Refer to [`INDEX.md`](INDEX.md) for an annotated entry point into the documentation tree.
+|--------|---------|
+| 01-foundation-technology/ | Core MSSC microbial system documents, patent drafts, and prior art defense. |
+| 02-integrated-systems/ | TriSource node specifications, solar desal integration, PoC geometry builds. |
+| 03-deployment-framework/ | Status updates, pilot planning, and deployment pathway documentation. |
+| 04-business-development/ | Partnerships (e.g., UNIST), funding strategies, and market positioning. |
+| 05-technical-resources/ | Experimental designs, test data templates, BOMs, and technical figures. |
+| 06-pilot-implementations/ | Logs and documentation of real-world deployments (future). |
 
 ## Status Snapshot — September 2025
-- MSSC provisional patent and IP defense filed.
-- TriSource integration defined.
-- UNIST partnership brief drafted.
-- Risk-mitigated experimental design finalized.
-- Funding targets identified (DOE DWPR, USAID WASH, Gates Foundation).
+
+- MSSC provisional patent and IP defense filed
+- TriSource integration defined
+- UNIST partnership brief drafted
+- Risk-mitigated experimental design finalized
+- Funding targets identified (DOE DWPR, USAID WASH, Gates Foundation)
 
 ## Key Links
-- [Status Update](ROADMAP.md) — Milestone tracker and 90-day execution map.
-- [UNIST Partnership Brief](docs/04-business-development/pitch-materials/UNIST-Partnership-Brief.md) — Collaboration framing with UNIST’s solar desalination research group. *(Draft circulation channel; update schedule: monthly.)*
-- [Risk-Mitigated Design](docs/05-technical-resources/experiments/Risk_Mitigated_Design_Sept2025.md) — Stepwise validation protocol for MSSC–TriSource–UNIST system integration.
 
-## Engage with eMSSC²
-- **Contributors:** Submit instrumentation improvements, control logic, and data models through pull requests aligned with the documentation pathways outlined in `INDEX.md`.
-- **Deployment partners:** Coordinate pilot readiness reviews and site assessments via the contact points in `docs/03-deployment-framework/` to fast-track community agreements.
-- **Funders & ESG stakeholders:** Review diligence packets in `docs/04-business-development/` and schedule briefings to align grant, blended finance, or catalytic capital with the current execution window.
-- **Research collaborators:** Extend microbial, photothermal, and hydrodynamics investigations through shared experiments; reference `docs/05-technical-resources/` for baseline protocols and data schemas.
+- [Status Update](docs/03-deployment-framework/README.md) — Current milestones, pilot gating, and sequencing toward 2026 field trials.
+- [UNIST Partnership Brief](docs/04-business-development/pitch-materials/UNIST-Partnership-Brief.md) — Collaboration framing with UNIST’s LSMO solar desalination program.
+- [Risk-Mitigated Design](docs/05-technical-resources/experiments/Risk_Mitigated_Design_Sept2025.md) — Validation protocol aligning lab, pilot, and deployment readiness levels.
 
-*Let’s engineer regenerative infrastructure that compounds benefits for water, energy, and soil—no diesel, no waste, and no community left unsupported.*
+## 🤝 How to Engage
+
+- **Contribute**: Engineers, scientists, and practitioners are welcome to add to experiments, simulations, or deployment docs through pull requests.  
+- **Partner**: Institutions and companies (e.g., UNIST, NGOs, ag co-ops) can collaborate on pilots, field validation, and technology integration.  
+- **Fund**: Supporters and ESG investors can help accelerate prototypes, pilot sites, and agricultural resilience deployments.  
+- **Follow**: Track progress through our [Status Updates](03-deployment-framework/README_Status_Sept2025.md) and upcoming GitHub Pages site.
