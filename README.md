@@ -51,13 +51,23 @@ The **TriSource Water Node™** represents our most advanced integrated system, 
 
 ```
 eMSSC-squared/
-├── 01-foundation-technology/     # Core MSSC microbial systems
-├── 02-integrated-systems/        # TriSource and system integration
-├── 03-deployment-framework/      # Community implementation strategies
-├── 04-business-development/      # Partnerships, funding, market analysis
-├── 05-technical-resources/       # Simulations, documentation, BOMs
-└── 06-pilot-implementations/     # Real-world deployments and case studies
+├── README.md
+├── INDEX.md
+├── ROADMAP.md
+├── CHANGELOG.md
+├── VERSIONS.md
+├── docs/
+│   ├── README.md
+│   ├── 01-foundation-technology/
+│   ├── 02-integrated-systems/
+│   ├── 03-deployment-framework/
+│   ├── 04-business-development/
+│   ├── 05-technical-resources/
+│   └── 06-pilot-implementations/
+└── archive/
 ```
+
+Use [`INDEX.md`](INDEX.md) for direct links into each documentation pathway.
 
 -----
 
