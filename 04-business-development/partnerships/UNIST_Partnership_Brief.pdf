@@ -1,0 +1,181 @@
+%PDF-1.4
+%
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [3 0 R] >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+endobj
+4 0 obj
+<< /Length 5017 >>
+stream
+BT
+/F1 12 Tf
+14 TL
+72 720 Td
+(# Partnership Brief — UNIST × eMSSC² \(SunShare / TriSource / MSSC\)) Tj
+T*
+T*
+(**Date:** September 2025  ) Tj
+T*
+(**Prepared by:** eMSSC² Collective \(SunShare Initiative, TriSource Node™, MSSC\)) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Executive Summary) Tj
+T*
+(UNIST’s breakthrough in **La₀.₇Sr₀.₃MnO₃ \(LSMO\) inverse-L evaporators** achieves record solar-driven desalination \(3.4 L·m⁻²·h⁻¹ under 1 sun, electricity-free\). eMSSC² extends this innovation from laboratory scale to **deployable community systems** through the **TriSource Node™** and **Microbial Sump-to-Soil Cultivator \(MSSC\)**. Our integration turns desalination into a **closed-loop regenerative water-soil system**, directly aligned with humanitarian, agricultural, and resilience deployments.) Tj
+T*
+T*
+(Together, we can demonstrate the world’s first **zero-electric solar desalination + microbial valorization platform**, scaling from pilot farms to villages and schools.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Specific Technical Contributions from eMSSC²) Tj
+T*
+(1. **Brine & Salt Valorization**) Tj
+T*
+(   - Constructed wetlands + halophyte systems for polishing concentrate.  ) Tj
+T*
+(   - Solid salt capture & mineral recovery tied to soil/carbon projects.  ) Tj
+T*
+(   - Integration with MSSC ponds/bogs for microbial upcycling.  ) Tj
+T*
+T*
+(2. **Water Quality & Safety**) Tj
+T*
+(   - Proven MSSC sensor stack \(DO/ORP/pH/EC/temp\) for inline QA.  ) Tj
+T*
+(   - Options for UV-C or micro-dosing disinfection before potable use.  ) Tj
+T*
+(   - Logging frameworks for field validation and regulatory reporting.  ) Tj
+T*
+T*
+(3. **Field Deployment Platforms**) Tj
+T*
+(   - Active **farm-scale testbeds** \(Texas flower farm + duck pond bog\).  ) Tj
+T*
+(   - TriSource plumbing already configured for hybrid AWG + solar desal modules.  ) Tj
+T*
+(   - Open hardware BOMs for rapid 0.5–1 m² proof-of-concept builds.  ) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Joint Development Opportunities & Shared IP Potential) Tj
+T*
+(- **Module Co-Development**: Adapt UNIST LSMO evaporator coating to cartridge-style panels with TriSource condensers.  ) Tj
+T*
+(- **Nature+Tech Integration**: MSSC wetland bioreactors coupled to UNIST evaporators for full brine utilization.  ) Tj
+T*
+(- **Shared IP Pathways**: Co-patent derivative designs \(e.g., multi-stage LSMO + bio-wetland polishing, salt valorization processes\).  ) Tj
+T*
+(- **Open/Closed Strategy**: Publish performance results while protecting jointly-developed hardware geometries and operating protocols.  ) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Collaboration Timeline) Tj
+T*
+(- **0–3 months**:  ) Tj
+T*
+(  - Build carbon-black inverse-L PoC \(0.5 m²\) in MSSC pond testbed.  ) Tj
+T*
+(  - Share data on salt edge-harvest & microbial compatibility.  ) Tj
+T*
+T*
+(- **3–6 months**:  ) Tj
+T*
+(  - Integrate UNIST-provided LSMO coatings into TriSource cassettes.  ) Tj
+T*
+(  - Field trials in brackish well/pond water, QA with MSSC sensors.  ) Tj
+T*
+T*
+(- **6–12 months**:  ) Tj
+T*
+(  - Joint pilot: 5–6 m² array achieving **60–65 L/day** target.  ) Tj
+T*
+(  - Publish **field validation note** \(co-authored AEM addendum / Nature Water case study\).  ) Tj
+T*
+(  - Draft co-IP claims around heat-recovery stacks + bio-polishing.  ) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Funding & Publication Synergies) Tj
+T*
+(- **Funding channels**:  ) Tj
+T*
+(  - U.S. DOE NAWI & DWPR pilot grants \(Texas brackish & inland\).  ) Tj
+T*
+(  - EU Horizon & Korea–US joint research programs.  ) Tj
+T*
+(  - WASH humanitarian funds \(UNICEF, USAID\).  ) Tj
+T*
+T*
+(- **Publication opportunities**:  ) Tj
+T*
+(  - Co-author in *Advanced Energy Materials*, *Nature Water*, and *Desalination*.  ) Tj
+T*
+(  - Showcase world-first **“Zero-Electric Solar Desalination with Microbial Valorization”** demonstration.  ) Tj
+T*
+(  - Joint conference sessions \(IDA World Congress, IWA World Water Congress\).  ) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Contact Framework) Tj
+T*
+(**UNIST Lead:** Prof. **Ji-Hyun Jang**, School of Energy & Chemical Engineering, Ulsan National Institute of Science and Technology.  ) Tj
+T*
+(**eMSSC² Lead:** Justin Bilyeu — Founder, SunShare/TriSource/MSSC Initiatives  ) Tj
+T*
+(📧: [your email here]  ) Tj
+T*
+(🌐 Repo: [https://github.com/justindbilyeu/eMSSC-squared]\(https://github.com/justindbilyeu/eMSSC-squared\)  ) Tj
+T*
+T*
+(**Collaboration Channels:**  ) Tj
+T*
+(- Monthly virtual lab meetings \(data & sample exchange\).  ) Tj
+T*
+(- Shared GitHub folder for specifications, test logs, and draft manuscripts.  ) Tj
+T*
+(- Co-drafted MOU covering material supply, IP scope, and field validation.) Tj
+T*
+T*
+(---) Tj
+T*
+T*
+(## Closing Statement) Tj
+T*
+(UNIST’s LSMO technology answers the **physics of salt management**. eMSSC² answers the **biology, plumbing, and deployment** that make it real in the field. Together, we can prove a new class of **zero-electric, regenerative desalination systems** that deliver water security and soil health at community scale.) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+xref
+0 6
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000005315 00000 n 
+trailer << /Size 6 /Root 1 0 R >>
+startxref
+5385
+%%EOF
