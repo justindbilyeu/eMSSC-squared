@@ -41,7 +41,13 @@ Read our full statement here: [OPEN_SOURCE_DECLARATION.md](OPEN_SOURCE_DECLARATI
 
 ## 🤝 How to Engage
 
-- **Contribute**: Engineers, scientists, and practitioners are welcome to add to experiments, simulations, or deployment docs through pull requests.  
-- **Partner**: Institutions and companies (e.g., UNIST, NGOs, ag co-ops) can collaborate on pilots, field validation, and technology integration.  
-- **Fund**: Supporters and ESG investors can help accelerate prototypes, pilot sites, and agricultural resilience deployments.  
+- **Contribute**: Engineers, scientists, and practitioners are welcome to add to experiments, simulations, or deployment docs through pull requests.
+- **Partner**: Institutions and companies (e.g., UNIST, NGOs, ag co-ops) can collaborate on pilots, field validation, and technology integration.
+- **Fund**: Supporters and ESG investors can help accelerate prototypes, pilot sites, and agricultural resilience deployments.
 - **Follow**: Track progress through our [Status Updates](03-deployment-framework/README_Status_Sept2025.md) and upcoming GitHub Pages site.
+
+## ⚡ Quick Start
+- Run a sizing sim: `python 05-technical-resources/simulations/spmd_sizing.py`
+- Try the MSSC toy model: `python 05-technical-resources/simulations/mssc_growth.py`
+- Add a part to the BOM: edit `05-technical-resources/boms/trisource_poc_bom.csv`
+- Propose a pilot: edit `03-deployment-framework/pilots/pilot_phase1_arizona.md` and open a PR

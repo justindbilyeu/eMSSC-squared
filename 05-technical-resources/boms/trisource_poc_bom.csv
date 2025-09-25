@@ -1,0 +1,12 @@
+component,description,qty,unit_cost_usd,source,notes
+frame_panels,HDPE or PVC sheets (6-10mm),4,25,local hardware,cut to fit PoC tray
+wick_pad,cellulose/cotton felt (~5-8mm),1,18,McMaster-Carr or local,textured for capillary flow
+photothermal_coat,carbon black pigment + binder,1,12,art supply/lab,spray/roll application
+clear_cover,polycarbonate sheet (UV stabilized),1,28,local hardware,10-12° slope
+gutter_troughs,aluminum or PVC channels,2,8,local hardware,edge-salt collection
+peristaltic_pump,12-24V DC low-flow,1,35,amazon/adafruit,feed control
+sensors,EC + temp probe,1,30,atlas scientific (or equiv),QA logging
+uv_unit,low-power UV sterilizer,1,40,aquarium supply,post-treatment
+tubing_fittings,3/8-1/2 inch quick-connects,1,15,local hardware,barbed or JG
+fasteners,stainless screws/bolts,1,10,local hardware,corrosion-resistant
+sealant,marine-grade silicone,1,9,local hardware,edge sealing
