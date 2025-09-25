@@ -7,6 +7,13 @@
 
 We orchestrate microbial electrochemical bioreactors, TriSource hybrid nodes, and photothermal desalination modules into a deployable platform for climate-stressed communities. The program aligns engineering, policy, and capital pathways so DOE/USAID reviewers, UNIST collaborators, and ESG funders can accelerate field-ready infrastructure that regenerates water, energy, and soil without grid dependencies.
 
+![TriSource Node](05-technical-resources/figures/trisource_node_simple.svg)
+*Figure: TriSource integrates AWG, SPMD solar desal, and MSSC wetland polishing → QA → clean water storage.*
+
+## 🔓 Open Source Commitment
+This project operates as an open blueprint for regenerative water–energy–soil systems.  
+Read our full statement here: [OPEN_SOURCE_DECLARATION.md](OPEN_SOURCE_DECLARATION.md).
+
 ## 📂 Repository Map
 
 | Folder | Purpose |
