@@ -29,3 +29,16 @@ Demonstrate a small TriSource + MSSC + SPMD array suitable for an arid U.S. agri
 - Local farm or ag co-op
 - University lab for QC (water/soil)
 - NGO/ESG sponsor for deployment
+
+## Updated Performance Envelope (Derated)
+See `_shared_derated_assumptions.md`. Pilot acceptance band:
+- Water: **50–60 L/day**
+- Aux energy: **≤ 9 kWh/day**
+- Field area: **5–6 m²**
+- GOR: **≥ 2.5**
+
+## Validation Protocol Additions
+- Unit tests passing for models & control (CI ok)
+- 1000 h salt/fouling endurance plan
+- Condenser fouling inspection every 7 days, photo log
+- Fault injection tests: pump stall, sensor dropout, overflow

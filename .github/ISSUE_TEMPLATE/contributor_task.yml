@@ -1,0 +1,17 @@
+name: "Contributor Task"
+description: "Small, well-scoped tasks for new contributors"
+labels: ["good first issue", "help wanted"]
+body:
+  - type: input
+    id: path
+    attributes: { label: File/Path, description: "Relevant file path(s)" }
+  - type: textarea
+    id: what
+    attributes: { label: What & Why, description: "Describe the task and expected outcome" }
+  - type: checkboxes
+    id: accept
+    attributes:
+      label: Acceptance
+      options:
+        - label: "Docs/links provided"
+        - label: "Small, testable change"

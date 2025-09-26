@@ -57,3 +57,16 @@ Read our full statement here: [OPEN_SOURCE_DECLARATION.md](OPEN_SOURCE_DECLARATI
 - Try the MSSC toy model: `python 05-technical-resources/simulations/mssc_growth.py`
 - Add a part to the BOM: edit `05-technical-resources/boms/trisource_poc_bom.csv`
 - Propose a pilot: edit `03-deployment-framework/pilots/pilot_phase1_arizona.md` and open a PR
+
+### 🤖 Use AI as a Reviewer
+When you ask Claude/DeepSeek/Grok/ChatGPT for help, include:
+- File paths (e.g., `02-integrated-systems/TriSource/control_logic.py`)
+- Task goal & constraints
+- Links to KPIs and diagrams
+
+### 🔧 Run the Core Checks
+```bash
+python 05-technical-resources/simulations/thermal_model.py
+python 05-technical-resources/simulations/spmd_sizing.py  # if present
+pytest -q
+```
