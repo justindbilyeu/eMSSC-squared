@@ -7,6 +7,12 @@
 
 We orchestrate microbial electrochemical bioreactors, TriSource hybrid nodes, and photothermal desalination modules into a deployable platform for climate-stressed communities. The program aligns engineering, policy, and capital pathways so DOE/USAID reviewers, UNIST collaborators, and ESG funders can accelerate field-ready infrastructure that regenerates water, energy, and soil without grid dependencies.
 
+## 🚀 Join the eMSSC² Revolution
+- **Contribute**: Fork the repo, add simulations (`05-technical-resources/simulations/`), TriSource designs (`02-integrated-systems/`), or pilot plans (`03-deployment-framework/`).  
+- **Discuss**: Join GitHub Discussions (enabled soon) to share ideas and Q&A.  
+- **Spread the Word**: Star the repo and share with #eMSSC2 #OpenSource #Sustainability.  
+- **Explore**: See our [System Diagram](05-technical-resources/figures/system_diagram.md).  
+
 ![TriSource Node](05-technical-resources/figures/trisource_node_simple.svg)
 *Figure: TriSource integrates AWG, SPMD solar desal, and MSSC wetland polishing → QA → clean water storage.*
 
