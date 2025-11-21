@@ -1,0 +1,25 @@
+name: Convert MD to PDF
+
+on:
+  push:
+    paths:
+      - '04-business-development/partnerships/*.md'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install pandoc
+        run: sudo apt-get update && sudo apt-get install -y pandoc
+      - name: Convert Markdown to PDF
+        run: |
+          for file in 04-business-development/partnerships/*.md; do
+            [ -f "$file" ] || continue
+            pandoc "$file" -o "${file%.md}.pdf"
+          done
+      - name: Upload PDFs as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: partnership-pdfs
+          path: 04-business-development/partnerships/*.pdf
